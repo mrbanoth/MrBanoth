@@ -1,80 +1,54 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ5Ymt3MjVzcWs2MXFzdWVvcXhiMm83dWw2OGg3cmEyNW1jN2ZsbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+<h2> Hi, I'm Banoth Sandeep Naik!
+  <img src="https://i.giphy.com/mGo8dkPOF6GLm.webp" width="60" >
+</h2>
 
-###
+<!-- Rounded GIF (smaller + lower position) -->
+<img 
+  align="right" 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNhbHJzazRiN2dtMnNseGpmaDVha3B3ZjJ1emQ5Zmt3NW45NGNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZS57kdXudVqsDX0TLH/giphy.gif" 
+  width="180"
+  style="border-radius: 50%; margin-top: 20px;"
+/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/banothsandeepnaik/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p>
+  <em>
+    Frontend Developer • Aspiring Full-Stack Engineer • AI Tools Explorer  
+    <br>
+    Based in India • Focused on MERN Stack  
+  </em>
+</p>
+
+<!-- SOCIAL BADGES -->
+<p>
+  <a href="https://www.linkedin.com/in/banothsandeepnaik">
+    <img src="https://img.shields.io/badge/-Banoth%20Sandeep%20Naik-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/share/16xGNC1KPX/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+
+  <a href="https://github.com/MrBanoth-dev">
+    <img src="https://img.shields.io/github/followers/MrBanoth-dev?label=Follow&style=social">
   </a>
-</div>
+  
+  <a href="https://buymeacoffee.com/mrbanoth">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black">
+  </a>
+</p>
 
-###
+<!-- EXTRA SPACING BEFORE NEXT SECTION -->
+<br><br><br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrBanoth.MrBanoth&"  />
-</div>
-
-###
-
-<h2 align="center">hey there 👋<br>Banoth Sandep Naik here >...</h2>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">- 🚀 Passionate Frontend Developer | Aspiring Full-Stack Engineer | AI Enthusiast<br>- 💬 Ask me about Basic web dev and , Ai-Tools handling<br>- ⚡ Fun fact I speak funny<br>-📫Connect with me: sandeepnaikb0@gmail.com</p>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBanoth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<h3>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  A little more about me...
+</h3>
 
 
-
-###
+```javascript
+const sandeep = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS", "C", "TypeScript"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "Tailwind", "Bootstrap"],
+  learning: ["Full-Stack Development", "AI Tools", "Backend Engineering", "MERN"],
+  portfolio: "https://mrbanoth.online",
+  funFact: "I speak funny 😄",
+  challenge: "Building full MERN projects & improving backend skills"
+}
