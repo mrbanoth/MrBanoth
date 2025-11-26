@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Banoth%20Sandeep%20Naik-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 
-  <a href="https://github.com/MrBanoth-dev">
+  <a href="https://github.com/mrbanoth">
     <img src="https://img.shields.io/github/followers/MrBanoth-dev?label=Follow&style=social">
   </a>
   
