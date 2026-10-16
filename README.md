@@ -10,7 +10,7 @@ Keep this README in the repository named exactly: mrbanoth
 <h1 align="center">Hi, I'm Banoth Sandeep Naik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Next.js+%7C+FastAPI+%7C+PostgreSQL;Building+Real-World+Products;Shipping+faster+with+AI+tools" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Automation+%26+AI%2FML;Next.js+%7C+FastAPI+%7C+PostgreSQL;Shipping+faster+with+AI+tools" alt="Animated typing introduction" />
 </p>
 
 <p align="center">
@@ -35,15 +35,15 @@ Keep this README in the repository named exactly: mrbanoth
 ```typescript
 const sandeep = {
   name: "Banoth Sandeep Naik",
-  role: "Full Stack Developer",
+  role: "Full Stack Developer & Automation Engineer",
   location: "Hyderabad, India",
   education: "B.Tech CSE (AI & DS) — IIIT Manipur, 2026",
   experience: "Full Stack Developer Intern @ PSS Automate Pvt. Ltd.",
-  skills: ["React", "Next.js", "TypeScript", "Tailwind",
-           "Python", "FastAPI", "Node.js", "PostgreSQL"],
-  aiTools: ["Claude", "Codex", "Copilot", "OpenCode", "Gemini"],
-  currently: "Building products & exploring AI",
-  goal: "Work on meaningful products with real impact"
+  stack: ["Next.js", "React", "TypeScript", "FastAPI", "Node.js", "PostgreSQL"],
+  deploy: ["Vercel", "Render", "Hostinger", "Coolify", "Docker", "AWS"],
+  learning: "AI / ML fundamentals",
+  building: "ML model for microbial colony counting",
+  freelance: "Open to projects"
 };
 ```
 
@@ -60,10 +60,16 @@ const sandeep = {
 
 ## Tech Stack
 
+<p align="center"><strong>Development</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,fastapi,postgres&theme=dark&perline=9" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Node.js, Python, FastAPI, PostgreSQL" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,aws,git,github,vercel,figma,linux&theme=dark&perline=9" alt="MongoDB, Redis, Docker, AWS, Git, GitHub, Vercel, Figma, Linux" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,git,github,figma,linux&theme=dark&perline=9" alt="MongoDB, Redis, Git, GitHub, Figma, Linux" />
+</p>
+
+<p align="center"><strong>Deployment &amp; Hosting</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&i=docker" width="48" alt="Docker" /> <img src="https://skillicons.dev/icons?theme=dark&i=aws" width="48" alt="AWS" /> <img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" alt="Vercel" /> <img src="./assets/icons/render.svg" width="48" alt="Render" /> <img src="./assets/icons/hostinger.svg" width="48" alt="Hostinger" /> <img src="./assets/icons/coolify.svg" width="48" alt="Coolify" />
 </p>
 
 ---
