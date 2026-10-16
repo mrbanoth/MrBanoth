@@ -3,17 +3,18 @@ MRBANOTH PROFILE README
 Required files in this repo:
   assets/sandeep-hero.gif
   assets/sandeep-3d-avatar.jpg
+  assets/activity-graph.svg (auto-updated daily by .github/workflows/activity-graph.yml)
 Keep this README in the repository named exactly: mrbanoth
 -->
-
-<p align="center">
-  <img src="./assets/sandeep-hero.gif" width="100%" alt="3D Sandeep runs in with his bag, things fall out, he waves hi and runs off" />
-</p>
 
 <h1 align="center">Hi, I'm Banoth Sandeep Naik</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer;Next.js+%7C+FastAPI+%7C+PostgreSQL;Building+Real-World+Products;Shipping+faster+with+AI+tools" alt="Animated typing introduction" />
+</p>
+
+<p align="center">
+  <img src="./assets/sandeep-hero.gif" width="100%" alt="3D Sandeep runs in with his bag, things fall out, he waves hi and runs off" />
 </p>
 
 <p align="center">
@@ -155,12 +156,12 @@ const sandeep = {
 <!-- All cards below are LIVE — they read your GitHub data every time the profile loads (with provider caching). -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbanoth&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6&title_color=A78BFA&hide_border=true&radius=12&custom_title=Contributions%20Activity" width="100%" alt="Live contribution activity graph" />
+  <img src="./assets/activity-graph.svg" width="100%" alt="Contributions in the last year" />
 </p>
 
 <p align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbanoth&layout=donut&langs_count=6&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&custom_title=Top%20Languages" alt="Top languages" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=mrbanoth&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github&show=prs_merged&custom_title=GitHub%20Stats" alt="GitHub stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=mrbanoth&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github&show=prs_merged&custom_title=GitHub%20Stats" alt="GitHub stats" />
 </p>
 
 <p align="center">
