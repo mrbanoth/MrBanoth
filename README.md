@@ -117,6 +117,7 @@ const sandeep = {
 
 ---
 
+<!-- HIDDEN: Top Projects — remove this comment wrapper to show again
 ## Top Projects
 
 <table>
@@ -146,6 +147,7 @@ const sandeep = {
 </table>
 
 ---
+-->
 
 ## GitHub Analytics
 
@@ -164,11 +166,13 @@ const sandeep = {
   <img src="https://streak-stats.demolab.com?user=mrbanoth&hide_border=true&border_radius=12&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
 </p>
 
+<!-- HIDDEN: GitHub Trophies — remove this comment wrapper to show again
 ### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mrbanoth&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=8" width="100%" alt="GitHub trophies" />
 </p>
+-->
 
 ---
 
