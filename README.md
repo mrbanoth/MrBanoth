@@ -2,7 +2,7 @@
 MRBANOTH PROFILE README
 Required files in this repo:
   assets/sandeep-hero.gif
-  assets/sandeep-3d-avatar.png
+  assets/sandeep-3d-avatar.jpg
 Keep this README in the repository named exactly: mrbanoth
 -->
 
@@ -17,6 +17,7 @@ Keep this README in the repository named exactly: mrbanoth
 </p>
 
 <p align="center">
+  <a href="mailto:itsmrbanoth@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Freelancing-22C55E?style=for-the-badge&labelColor=0D1117" alt="Open to freelancing" /></a>
   <a href="https://github.com/mrbanoth"><img src="https://img.shields.io/github/followers/mrbanoth?style=for-the-badge&logo=github&label=Followers&color=8B5CF6&labelColor=0D1117" alt="GitHub followers" /></a>
   <a href="https://mrbanoth.online"><img src="https://img.shields.io/badge/Portfolio-mrbanoth.online-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
   <a href="mailto:itsmrbanoth@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
@@ -48,7 +49,7 @@ const sandeep = {
   </td>
   <td width="38%" align="center" valign="middle">
 
-<img src="./assets/sandeep-3d-avatar.png" width="100%" alt="3D avatar of Sandeep working on his laptop" />
+<img src="./assets/sandeep-3d-avatar.jpg" width="100%" alt="3D avatar of Sandeep working on his laptop" />
 
   </td>
   </tr>
